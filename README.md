@@ -1,2 +1,2 @@
-examples-karaf-configuration-property-placeholder
-=================================================
+# Karaf Example: Configuration Property Placeholder
+
